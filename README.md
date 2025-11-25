@@ -1,5 +1,6 @@
 # React + Vite + Kandó
 
+Update: Kandós favicon és specifikus ikonok
 Korábbi npm-es React telepítőről átalakítva Vite-kompatibilissá.
 Ez a sablon minimális beállítást biztosít a React Vite-ban való működéséhez HMR-rel és néhány ESLint szabállyal.
 
